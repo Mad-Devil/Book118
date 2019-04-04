@@ -5,7 +5,7 @@
 ### 2. 安装`requests`、`Pillow`、`threadpool`  
   `pip install equests Pillow threadpool`  
 ### 3. 使用  
-  `python Book118 pid [filename]`  
+  `python Book118.py pid [filename]`  
   pid是要下载页面的链接中最后的数字  
   filename保存文件名称，可省略  
 ## 参考
