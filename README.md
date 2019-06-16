@@ -3,7 +3,7 @@
 ## 安装及使用
 ### 1. 安装Python3  
 ### 2. 安装`requests`、`Pillow`、`threadpool`  
-  `pip install equests Pillow threadpool`  
+  `pip install requests Pillow threadpool`  
 ### 3. 使用  
   `python Book118.py pid [filename]`  
   pid是要下载页面的链接中最后的数字  
